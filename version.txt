@@ -1,4 +1,4 @@
 {
-  latestVersion: '16.7.0.0',
+  latestVersion: '16.8.0.0',
   latestVersionLocation: 'https://www.hexagongeospatial.com'
 }
