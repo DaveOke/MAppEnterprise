@@ -1,4 +1,4 @@
 {
   version: '16.8.0.0',
-  url: 'https://www.hexagongeospatial.com'
+  url: 'https://download.hexagongeospatial.com/downloads/mapp-enterprise/m-app-enterprise-2021-update-2'
 }
